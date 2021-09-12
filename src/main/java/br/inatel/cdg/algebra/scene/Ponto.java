@@ -4,9 +4,9 @@ public class Ponto {
 
     private double x, y;
 
-    public Ponto(double x, double y) {
-        this.x = x;
-        this.y = y;
+    public Ponto(double a, double b) {
+        this.x = a;
+        this.y = b;
     }
 
     public double getX() {
